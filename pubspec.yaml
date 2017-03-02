@@ -1,0 +1,10 @@
+name: git_url_parse
+version: 0.1.0
+authors:
+  - axetroy <troy450409405@gmail.com>
+description: A high level git url parser for common git providers.
+homepage: https://github.com/axetroy/git-url-parse
+dev_dependencies:
+  test:
+dependencies:
+  url_parse:

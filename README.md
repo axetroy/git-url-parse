@@ -51,7 +51,8 @@ void main(){
 ## Contribute
 
 ```bash
-git clone https://github.com/axetroy/git-url-parse.git && cd ./git-url-parse
+git clone https://github.com/axetroy/git-url-parse.git
+cd ./git-url-parse
 pub get
 ./TEST
 ```

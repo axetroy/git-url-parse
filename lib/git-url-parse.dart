@@ -1,6 +1,6 @@
 library urlParse;
 import 'dart:convert';
-import 'package:url_parse/url-parse.dart' show urlParse;
+import 'package:url_parse/url_parse.dart' show urlParse;
 
 /**
  * parse an input git url and return a map

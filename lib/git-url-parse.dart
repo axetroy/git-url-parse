@@ -27,7 +27,5 @@ Map<String, dynamic> gitUrlParse(String url) {
   }
   output["full_name"] = '${output["owner"]}/${output["name"]}';
 
-  print(new JsonEncoder.withIndent('  ').convert(output));
-
   return output;
 }

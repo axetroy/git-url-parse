@@ -8,3 +8,4 @@ dev_dependencies:
   test:
 dependencies:
   url_parse:
+    git: git://github.com/axetroy/url-parse.git
